@@ -1,3 +1,5 @@
+# creadit-card-fraud-detection
+
 Credit Card Fraud Detection – Machine Learning Project
 
 This repository presents a complete machine learning pipeline for detecting fraudulent credit card transactions. The project focuses on solving the problem of extreme class imbalance using SMOTE and evaluates multiple models with appropriate performance metrics.
